@@ -1,0 +1,2 @@
+publicador GPS Posiciones
+suscriptor Registrador MiRegistrador Posiciones trayectoria.csv
