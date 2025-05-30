@@ -1,9 +1,0 @@
-publicador Streamer_1 Notificaciones_1
-publicador Streamer_2 Notificaciones_2
-publicador TV tv
-publicador GPS_1 Posiciones_1
-suscriptor Seguidor Seguidor_1 Notificaciones_1 seguidor1.txt
-suscriptor Seguidor Seguidor_2 Notificaciones_2 seguidor2.txt
-suscriptor Seguidor camarro tv camarro.txt
-suscriptor Registrador Registrador_1 Posiciones_1 trayectoria.csv
-suscriptor Monitor Monitor_1 Posiciones_1 alertas.txt
